@@ -15,6 +15,6 @@ A CSV file containing survey data can be found [here](data/survey_data.csv).
 
 The survey data is organized as follows:
 
-| Field season | Species | Date collected | Plot | Sex | Weight (g) | Scale calibrated? |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2013 | DM | 7/16/2013 | 2 | F | 33 | Yes |
+| Field season  | Species   | Date collected    | Plot  | Sex   | Weight (g)    | Scale calibrated? |
+| ---           | ---       | ---               | ---   | ---   | ---           | ---               |
+| 2013          | DM        | 7/16/2013         | 2     | F     | 33            | Yes               |
