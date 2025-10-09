@@ -1,6 +1,6 @@
-### Homework 01
+### Homework 01 :ant:
 
-**Species of ants include:**
+**The species of ants included in this survey are:**
 1. _Rhytidoponera metallica_
 ![Rhytidoponera metallica](images/casent0172345_rhytidoponera_metallica.jpg)
 2. _Camponotus darwinii_
@@ -10,10 +10,10 @@
 4. _Cataglyphis fortis_
 ![Cataglyphis fortis](images/casent0906296_p_1_high_cataglyphis_fortis.jpg)
 
-An Excel file containing survey data can be found [here](data/survey_data.xlsx).
-A CSV file containing survey data can be found [here](data/survey_data.csv).
+An Excel file containing the survey data can be found [here](data/survey_data.xlsx).  
+A CSV file containing the survey data can be found [here](data/survey_data.csv).
 
-The survey data is organized as follows:
+An example observation of this survey is shown:
 
 | Field season  | Species   | Date collected    | Plot  | Sex   | Weight (g)    | Scale calibrated? |
 | ---           | ---       | ---               | ---   | ---   | ---           | ---               |
